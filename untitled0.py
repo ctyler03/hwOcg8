@@ -8,8 +8,7 @@ Original file is located at
 """
 
 import streamlit as st
-
-    import pandas as pd
+import pandas as pd
     # Title of the app
     st.title('Interactive Sales Data Visualization App')
 
